@@ -1,5 +1,4 @@
-# Simulations(MATLAB)
-> Modeling of PID controller-based d.c. Motor in Simulink.
+# Modeling of PID controller-based d.c. Motor 
 >Simulations help us to understand the design and behavior of our model.
 >
 >For eg:-
