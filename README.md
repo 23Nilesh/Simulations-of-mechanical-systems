@@ -1,4 +1,4 @@
-# MOdelling in matlab
+# Modelling in matlab
 >Simulations help us to understand the design and behavior of our model.
 >
 >For eg:-
