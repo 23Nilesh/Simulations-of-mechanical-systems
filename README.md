@@ -1,4 +1,4 @@
-# Modeling of PID controller-based d.c. Motor 
+# MOdelling in matlab
 >Simulations help us to understand the design and behavior of our model.
 >
 >For eg:-
